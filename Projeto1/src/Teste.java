@@ -1,7 +1,7 @@
 
 public class Teste {
 	private void Main() {
-		System.out.println("Projeto1");
+		System.out.println("P1");
 
 	}
 
