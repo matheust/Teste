@@ -1,7 +1,7 @@
 
 public class Teste {
 	private void Main() {
-		System.out.println("P2");
+		System.out.println("P3");
 
 	}
 
